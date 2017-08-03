@@ -1,0 +1,17 @@
+{
+  "name": "jsdns",
+  "version": "0.0.1",
+  "description": "A simple DNS module for looking up hostnames + the total time taking to lookup the address in ms.",
+  "main": "JSdns.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "DNS",
+    "Reverse Lookup",
+    "Resolver",
+    "Networking"
+  ],
+  "author": "Liam Robson",
+  "license": "MIT"
+}
