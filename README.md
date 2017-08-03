@@ -10,4 +10,4 @@ I'm new to JavaScript, learning more and more each day. I'm currently a Jnr DevO
 
 ### How? ###
 
-`git clone https://github.com/LiamRR/JSdns.git`
+`npm install jsdns`
