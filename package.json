@@ -1,6 +1,6 @@
 {
   "name": "jsdns",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple DNS module for looking up hostnames + the total time taking to lookup the address in ms.",
   "main": "JSdns.js",
   "scripts": {
