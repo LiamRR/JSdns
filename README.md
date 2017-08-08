@@ -10,4 +10,15 @@ I'm new to JavaScript, learning more and more each day. I'm currently a Jnr DevO
 
 ### How? ###
 
-`npm install jsdns`
+`$ npm install jsdns`
+
+    ...
+    var host = 'www.google.co.uk'; <--- This is the host you want to look up.
+    const startTime = outputMs();
+    ...
+
+    ...
+    $ node JSdns.js
+    1 Jan 00:01:01 - IPv4 Address: 216.58.214.3
+    1 Jan 00:01:01 - Reverse Lookup for 216.58.214.3: ["lhr26s05-in-f3.1e100.net","lhr26s05-in-f3.1e100.net"]
+    1 Jan 00:01:01 - DNS Lookup of www.google.co.uk took -24ms
