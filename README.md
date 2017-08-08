@@ -10,9 +10,15 @@ I'm new to JavaScript, learning more and more each day. I'm currently a Jnr DevO
 
 ### How? ###
 
+1) Install JSdns by running:
+  
 `npm install jsdns`
 
+2) Whatever host you want to lookup (google.co.uk for example), change the 'host' variable inside of the ' ' quotes.  
+
 `var host = 'www.google.co.uk'; //This is the host you want to look up.`
+
+3) Run JSdns by running 'node JSdns.js' and the output from the lookup will display in the console.
 
     $ node JSdns.js
     1 Jan 00:01:01 - IPv4 Address: 216.58.214.3  
