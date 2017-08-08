@@ -20,7 +20,7 @@ I'm new to JavaScript, learning more and more each day. I'm currently a Jnr DevO
 
 3) Run JSdns by running 'node JSdns.js' and the output from the lookup will display in the console.
 
-    $ node JSdns.js
+    $ node JSdns.js  
     1 Jan 00:01:01 - IPv4 Address: 216.58.214.3  
     1 Jan 00:01:01 - Reverse Lookup for 216.58.214.3: ["lhr26s05-in-f3.1e100.net","lhr26s05-in-f3.1e100.net"]  
-    1 Jan 00:01:01 - DNS Lookup of www.google.co.uk took -24ms
+    1 Jan 00:01:01 - DNS Lookup of www.google.co.uk took -24ms  
