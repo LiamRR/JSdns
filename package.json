@@ -10,8 +10,14 @@
     "DNS",
     "Reverse Lookup",
     "Resolver",
-    "Networking"
+    "Networking",
+    "DNS Cache",
+    "Client-Side",
+    "IPv4"
   ],
   "author": "Liam Robson",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "dnscache": "^1.0.1"
+  }
 }
