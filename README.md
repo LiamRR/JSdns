@@ -1,6 +1,5 @@
 # JSdns #
 [![npm version](https://badge.fury.io/js/jsdns.svg)](https://badge.fury.io/js/jsdns)
-[![Gemnasium](https://img.shields.io/gemnasium/mathiasbynens/he.svg)](https://www.npmjs.com/package/jsdns)
 
 ### What? ###
 
